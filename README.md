@@ -79,6 +79,9 @@ NASA Aerogel Research
 Research papers on AI-based UAV Navigation
 Recent studies on Disaster Management using Autonomous Drones
 
+📄 License
+This project is developed for academic and research purposes.
+
 ⭐ Acknowledgements
 
 We sincerely thank our project guide, the Department of Electronics and Communication Engineering, and SCSVMV University for their guidance and support throughout this project.
